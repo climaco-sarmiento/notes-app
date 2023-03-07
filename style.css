@@ -6,7 +6,7 @@
 }
 
 body {
-  background-color: #7bdaf3;
+  background-color: #403d39;
   font-family: "Montserrat", sans-serif;
   display: flex;
   flex-wrap: wrap;
@@ -18,7 +18,7 @@ body {
   position: fixed;
   top: 1rem;
   right: 1rem;
-  background-color: #9ec862;
+  background-color: #3a86ff;
   color: #fff;
   border: none;
   border-radius: 3px;
@@ -40,7 +40,7 @@ body {
 }
 
 .note .tools {
-  background-color: #9ec862;
+  background-color: #3a86ff;
   display: flex;
   justify-content: flex-end;
   padding: 0.5rem;

@@ -1,6 +1,6 @@
-# Notes App - a simple DOM manipulation exercise
+# Notes App - using localStorage and marked library
 
-This is a simple DOM manipulation exercise that I did, folowing along with a tutorial.
+This is a tutorial bases, DOM manipulation exercise that uses the Local Storage API and marked library for enabling Markdoen support.
 
 ### Links
 
